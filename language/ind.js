@@ -400,22 +400,32 @@ RAM 2GB CORE 1 : 30K
 RAM 4GB CORE 2 : 50K
 RAM 8GB : 75K
 Remote Desktop Protocol (sering disingkat menjadi RDP) adalah sebuah protokol jaringan yang digunakan oleh Microsoft Windows Terminal Services dan Remote Desktop.
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🤖 JASA SEWA BOT 🤖
+*BOT ON 24 JAM & BISA BUAT PRICELIST*
+╭──「 *_SEWA BOT_* 」
+│❏  1 MINGGU : RM 5
+│❏  1 BULAN : RM 10
+│❏   PERMANEN : RM 15
+╰────
+╭─[ *_KELEBIHAN BOT_*]
+│❏  ＯＮ 24 ＪＡＭ
+│❏  BISA BUAT STICK DLL
+│❏  FITUR BANYAK
+╰────
+╭─[ *_KEUNTUNGAN_* ]
+│❏  ANTI LINK ( AUTO KICK )
+│❏  ANTI VIRTEX ( AUTO KICK )
+│❏  WELCOME ( OTOMATIS )
+│❏  DAN RATUSAN FITUR LAINYA
+╰────
+╭─[ *MINAT CHAT* ]
+│❏  🪀 wa.me/601123550412
+╰────
+╭─[ *PAYMENT* ]
+│❏  DIGI
+│❏  MAXIS
+╰────
 
-✅ FAST RESPON
-✅ 24 JAM)
-✅ NO DELAY
-💰 10K/BULAN
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-☎️ NOMOR KOSONG ☎️
-
-✅ NOMOR (+62)
-✅ 1x VERIFIKASI
-✅ PERMANEN
-✅ BERGARANSI
-💰 3K / NOMOR
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*_DI JAMIN ANTI DELAY & ON 24 JAM_*
 \n`}
 
 exports.store2 = () => { 
@@ -840,22 +850,32 @@ RAM 2GB CORE 1 : 30K
 RAM 4GB CORE 2 : 50K
 RAM 8GB : 70K
 Remote Desktop Protocol (sering disingkat menjadi RDP) adalah sebuah protokol jaringan yang digunakan oleh Microsoft Windows Terminal Services dan Remote Desktop.
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🤖 JASA SEWA BOT 🤖
+*BOT ON 24 JAM & BISA BUAT PRICELIST*
+╭──「 *_SEWA BOT_* 」
+│❏  1 MINGGU : RM 5
+│❏  1 BULAN : RM 10
+│❏   PERMANEN : RM 15
+╰────
+╭─[ *_KELEBIHAN BOT_*]
+│❏  ＯＮ 24 ＪＡＭ
+│❏  BISA BUAT STICK DLL
+│❏  FITUR BANYAK
+╰────
+╭─[ *_KEUNTUNGAN_* ]
+│❏  ANTI LINK ( AUTO KICK )
+│❏  ANTI VIRTEX ( AUTO KICK )
+│❏  WELCOME ( OTOMATIS )
+│❏  DAN RATUSAN FITUR LAINYA
+╰────
+╭─[ *MINAT CHAT* ]
+│❏  🪀 wa.me/601123550412
+╰────
+╭─[ *PAYMENT* ]
+│❏  DIGI
+│❏  MAXIS
+╰────
 
-✅ FAST RESPON
-✅ 24 JAM)
-✅ NO DELAY
-💰 10K/BULAN
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-☎️ NOMOR KOSONG ☎️
-
-✅ NOMOR (+62)
-✅ 1x VERIFIKASI
-✅ PERMANEN
-✅ BERGARANSI
-💰 3K / NOMOR
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*_DI JAMIN ANTI DELAY & ON 24 JAM_*
 \n
 `}
 
@@ -1048,30 +1068,38 @@ return `*「 MOBILE LEGEND 」*
 
 exports.dmefef = (prefix) => { 
 return `*「 FREE FIRE 」*
-• VIA ID
-• LEGAL 100%
-• PROSES 1-7 MENIT
+ʜɪ, sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴋᴇ
+📌FanX📌
 
-☂ *50 💎 Rp 7.789*
-☂ *70 💎 Rp 10.000*
-☂ *100 💎 Rp 15.500*
-☂ *140 💎 Rp 19.500*
-☂ *210 💎 Rp 28.522*
-☂ *355 💎 Rp 46.500*
-☂ *500 💎 Rp 66.500*
-☂ *720 💎 Rp 92.740*
-☂ *1000 💎 Rp 129.104*
-☂ *1440 💎 Rp 183.200*
-☂ *2000 💎 Rp 250.400*
+ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴠɪᴀ ᴅɪɢɪ🧾
+          🍟 ғʀᴇᴇ ғɪʀᴇ🍟
+📎ʀᴍ5 = 125💎
+📎ʀᴍ10 = 260💎
+📎ʀᴍ20 = 545💎
+📎ʀᴍ30 = 855💎
+📎ʀᴍ40 = 1180💎
+📎ʀᴍ50 = 1440💎
+📎ʀᴍ60 =  1725💎
+📎 ʀᴍ70 =  2010💎
+📎ʀᴍ80 =  2410💎
+📎ʀᴍ90 =  2720💎
+📎ʀᴍ100 = 2945💎
+📎weekly ʀᴍ10 = 450💎
+📎monthly ʀᴍ40 =2600💎
+ᴘᴇʀʟᴜᴋᴀɴ:
+pin digi:
+ɪᴅ:
 
-*Member Mingguan Rp 28.800*
-*Member Bulanan Rp 138.000*
+ᴛʀᴜsᴛᴇᴅ✅
+FEADBACK✅
 
-Note : 
-• Harga sewaktu waktu berubah
-• Pastikan ID Sudah benar
-• Pemesanan lebih tinggal x kan saja
-• Kesalahan Pengirim data tidak ada reff
+📌proses pembelian diamond akan dilaksanakn secepat awek kau putuskn kau.
+
+📌tekan link utk masuk ke group admin:
+https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T
+
+tekan link utk membeli diamond  dgn admin:
+https://api.whatsapp.com/send?phone=60128414294&text=salam+FanX+nak+beli+diamond
 \n
 `}
 
