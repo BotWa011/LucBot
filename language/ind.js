@@ -740,8 +740,8 @@ Kebijakan Privasi
 6.Owner Bot berhak melihat status users.
 7.Owner Bot dapat melihat riwayat chat, dan media yang dikirimkan users.
 
--Luc
--Siegrin
+-Beban
+-Khairil
 
 Peraturan: 19 Juli 2021\n
 `}
