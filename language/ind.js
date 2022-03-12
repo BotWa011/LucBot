@@ -483,9 +483,9 @@ return `Haloo ini iklan bot mau ngenalin sesuatu nih...
 Jadi disini iklan bot buka jasa mengubah foto kamu menjadi pixelart seperti di atas! Ga cuma foto lho! Karakter di game juga bisa! Dan ga cuma itu! Kamu juga bisa menjualnya sebagai NFT!
 
 Harga
-Rp20,000 (kepala - bahu)
-Rp30,000 (kepala - pinggang)
-Rp50,000 full body
+RM 5 (kepala - bahu)
+RM 10 (kepala - pinggang)
+RM 15 full body
 
 custom background +Rp10,000
 
@@ -818,26 +818,32 @@ return `‣‌🇯‌‌🇦‌‌🇸‌‌🇦‌•‌🇸‌‌🇭‌‌�
 
 exports.premiumbot = () => { 
 	return `*╭─❲ List Sewa ❳*       
-${bi}1 Grup/ 30 Hari
-${bi}- Rp. 15,000 Dana,GOPAY
-${bi}1 Grup/ 30 Hari
-${bi}- Rp. 20,000 Pulsa Telkomsel
-${bu}
+*BOT ON 24 JAM & BISA BUAT PRICELIST*
+╭──「 *_SEWA BOT_* 」
+│❏  1 MINGGU : RM 5
+│❏  1 BULAN : RM 10
+│❏   PERMANEN : RM 15
+╰────
+╭─[ *_KELEBIHAN BOT_*]
+│❏  ＯＮ 24 ＪＡＭ
+│❏  BISA BUAT STICK DLL
+│❏  FITUR BANYAK
+╰────
+╭─[ *_KEUNTUNGAN_* ]
+│❏  ANTI LINK ( AUTO KICK )
+│❏  ANTI VIRTEX ( AUTO KICK )
+│❏  WELCOME ( OTOMATIS )
+│❏  DAN RATUSAN FITUR LAINYA
+╰────
+╭─[ *MINAT CHAT* ]
+│❏  🪀 wa.me/601123550412
+╰────
+╭─[ *PAYMENT* ]
+│❏  DIGI
+│❏  MAXIS
+╰────
 
-*╭─❲ FEATURE ❳*
-${bi}✅ ON 24 JAM
-${bi}✅ WELCOME ON/OFF
-${bi}✅ ANTILINK ON/OFF
-${bi}✅ ONLY ADMIN ON/OFF
-${bi}✅ GABUT MENU
-${bi}✅ MEDIA MENU
-${bi}✅ BUILD STICKER
-${bi}✅ TAGALL SYSTEM
-${bi}✅ HIDETAG SYSTEM
-${bi}✅ ADD OTHERS
-${bu}
-
-Kalau mau sewa silahkan chat Owner Bot
+*_DI JAMIN ANTI DELAY & ON 24 JAM_*
 `}
 
 exports.rpdstore = () => { 
